@@ -1,4 +1,4 @@
--The reason I've got so many numbers is because that's the ID number of my Raichu.
+-The reason I've got so many numbers on my tag is because it's the ID number of my Raichu and also BLAZE IS ALWAYS TAKEN!!!
 
 <!---
 Blaze248570/Blaze248570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
