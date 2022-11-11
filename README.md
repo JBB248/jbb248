@@ -1,7 +1,18 @@
 # Blaze/Rusty
 That's me
 
-### Name Note:
+## About me
+I'm an aspiring software engineer who very much loves pokémon. 
+I'm currently proficient in:
+- Java
+- Haxe
+But I also have some knowledge of:
+- Python
+- JavaScript
+- HTML and CSS
+- Lua
+
+#### Note on my name:
 The reason I've got so many numbers on my tag is because it's the ID number of my Raichu and also BLAZE IS ALWAYS TAKEN!!!
 
 <!---
