@@ -12,6 +12,7 @@ But I also have some knowledge of:
 - JavaScript
 - HTML and CSS
 - Lua
+- C++
 
 #### Note on my name:
 The reason I've got so many numbers on my tag is because it's the ID number of my Raichu and also BLAZE IS ALWAYS TAKEN!!!
