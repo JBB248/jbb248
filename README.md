@@ -6,6 +6,7 @@ I'm an aspiring software engineer who very much loves pokémon.
 I'm currently proficient in:
 - Java
 - Haxe
+
 But I also have some knowledge of:
 - Python
 - JavaScript
