@@ -1,5 +1,5 @@
-# Rusty
-That's me
+# Joe Bray
+That's me. Rusty is just a for-fun name
 
 ## About me
 I'm an aspiring software engineer who very much loves Pokémon. 
