@@ -2,7 +2,7 @@
 That's me.
 
 ## About me
-I'm an aspiring software engineer who very much loves Pokémon. 
+I'm an aspiring software engineer who enjoys Final Fantasy, Legend of Zelda, Persona, Portal, and Pokémon. 
 I'm currently proficient in:
 - Java
 - Haxe
